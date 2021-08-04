@@ -1,0 +1,4 @@
+export const nftmarketaddress = "Marketplace_Address"
+export const nftaddress = "NFT_Address"
+export const prov = "RPC_Network"
+export const privateKey = "Owner_Private_Key"
